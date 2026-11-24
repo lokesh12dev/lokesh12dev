@@ -4,11 +4,12 @@
 <h3 align="center">Software Developer | Full-Stack & Mobile App Engineer | Creator of Forge</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7B731&center=true&vCenter=true&width=550&lines=Crafting+High-Performance+Web+%26+Mobile+Apps;Creator+of+Forge+Music+Ecosystem;Turning+Ideas+into+Clean%2C+Elegant+Code;Open+Source+Builder+%26+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1000&color=F7B731&center=true&vCenter=true&width=700&lines=Crafting+High-Performance+Mobile+%26+Web+Architectures;Creator+of+Forge+Music+%E2%80%A2+Namma+Forge+%E2%80%A2+Main+Residence;Engineering+Interactive+3D+Spaces+%26+Modern+UI+Systems;Flutter+%E2%80%A2+Dart+%E2%80%A2+Kotlin+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Turning+Visionary+Software+Concepts+into+Reality" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lokesh12dev&label=Profile%20views&color=0e75b6&style=flat-square" alt="lokesh12dev" />
+  <a href="https://www.instagram.com/_im_lokesh___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-_im_lokesh___-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://lokesh-online-three.vercel.app/pro" target="_blank"><img src="https://img.shields.io/badge/Portfolio-lokesh.studio-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://lokesh12dev.github.io/Forge-Music/player/#/home" target="_blank"><img src="https://img.shields.io/badge/Forge_Music-Live_Demo-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Forge Music" /></a>
 </p>
@@ -25,10 +26,10 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Passionate Software Engineer crafting cross-platform mobile apps, dynamic web ecosystems, and modern software architectures.
-- 🚀 Creator and Lead Developer of **[Forge Music](https://github.com/lokesh12dev/Forge)** — an open-source, Spotify-inspired music player across Android, Desktop, and Web.
-- 🎨 Focused on creating seamless, accessible, and intuitive user experiences with cutting-edge UI engineering.
-- 🛠️ Daily stack includes **Flutter, Dart, Kotlin, React, Next.js, TypeScript, Tailwind CSS, and Python**.
+- 💻 Passionate Software Engineer crafting cross-platform mobile applications, interactive web ecosystems, and modern software architectures.
+- 🚀 Creator & Lead Developer of the **[Forge Music](https://github.com/lokesh12dev/Forge)** ecosystem, **Namma Forge**, and **Main Residence**.
+- 🎨 Focused on creating seamless, accessible, and intuitive user experiences with cutting-edge UI engineering and 3D web spaces.
+- 🛠️ Core tech stack includes **Flutter, Dart, Kotlin, React, Next.js, TypeScript, Tailwind CSS, and Python**.
 - 🌐 Explore my latest projects, live demos, and interactive spaces on my **[Portfolio](https://lokesh-online-three.vercel.app/pro)**.
 
 <br/>
@@ -52,6 +53,32 @@
       <p>A free, open-source Spotify-inspired cross-platform music streaming and playback application crafted for Android, macOS, Windows, Linux, and Web.</p>
       <p align="center">
         <code>Flutter</code> • <code>Dart</code> • <code>Kotlin</code> • <code>WebAudio</code> • <code>Android SDK</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏙️ Namma Forge</h3>
+      <p align="center">
+        <a href="https://lokesh-online-three.vercel.app/pro" target="_blank">
+          <img src="https://img.shields.io/badge/Experience-Open_World_Bengaluru-FFA500?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="Namma Forge" />
+        </a>
+      </p>
+      <p>An immersive open-world interactive space and software simulation exploring the urban architecture, streets, and vibrant landmarks of Bengaluru.</p>
+      <p align="center">
+        <code>Next.js</code> • <code>Three.js</code> • <code>WebGL</code> • <code>Canvas</code> • <code>Interactive 3D</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏛️ Main Residence</h3>
+      <p align="center">
+        <a href="https://lokesh-online-three.vercel.app/pro" target="_blank">
+          <img src="https://img.shields.io/badge/Virtual_Space-3D_Architecture-6366F1?style=for-the-badge&logo=unity&logoColor=white" alt="Main Residence" />
+        </a>
+      </p>
+      <p>High-fidelity interactive 3D virtual spatial environment and architectural digital space built for smooth real-time web exploration.</p>
+      <p align="center">
+        <code>Three.js</code> • <code>GLTF / 3D</code> • <code>Tailwind CSS</code> • <code>Framer Motion</code>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -97,8 +124,11 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
+  <a href="https://www.instagram.com/_im_lokesh___/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_im_lokesh___" height="30" width="40" />
+  </a>
   <a href="https://lokesh-online-three.vercel.app/pro" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Portfolio / Connect" height="30" width="40" />
   </a>
@@ -142,10 +172,10 @@
 <h3 align="left">📊 GitHub Activity & Stats:</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lokesh12dev&show_icons=true&locale=en&theme=radical" alt="Lokesh's GitHub Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokesh12dev&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/github-stats.svg" alt="Lokesh's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh12dev&theme=radical" alt="GitHub Streak" />
+  <img align="center" src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/streak-stats.svg" alt="GitHub Streak" />
 </p>
