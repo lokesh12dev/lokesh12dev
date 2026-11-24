@@ -230,3 +230,43 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
   <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a>
 </p>
+
+---
+
+<h3 align="left">🛡️ GitHub Profile Badges & Achievements:</h3>
+
+<p align="center">
+  <a href="https://github.com/lokesh12dev?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/badges/pull-shark.png" alt="Pull Shark" width="85px" title="Pull Shark - Merged 2+ Pull Requests" />
+  </a>
+  <a href="https://github.com/lokesh12dev?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/badges/quickdraw.png" alt="Quickdraw" width="85px" title="Quickdraw - Closed Issue/PR within 5 minutes" />
+  </a>
+  <a href="https://github.com/lokesh12dev?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/badges/pair-extraordinaire.png" alt="Pair Extraordinaire" width="85px" title="Pair Extraordinaire - Coauthored in a merged Pull Request" />
+  </a>
+  <a href="https://github.com/lokesh12dev?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/badges/galaxy-brain.png" alt="Galaxy Brain" width="85px" title="Galaxy Brain - 2+ Accepted Answers in Community Discussions" />
+  </a>
+  <a href="https://github.com/lokesh12dev?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/badges/yolo.png" alt="YOLO" width="85px" title="YOLO - Merged Pull Request without a review" />
+  </a>
+  <a href="https://github.com/lokesh12dev?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/badges/starstruck.png" alt="Starstruck" width="85px" title="Starstruck - Repository reached 16+ Stars" />
+  </a>
+  <a href="https://github.com/lokesh12dev?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/badges/arctic-code-vault.png" alt="Arctic Code Vault Contributor" width="85px" title="Arctic Code Vault Contributor - 2020 Archive Program" />
+  </a>
+  <a href="https://github.com/lokesh12dev?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/badges/mars-2020.png" alt="Mars 2020 Contributor" width="85px" title="Mars 2020 Contributor - NASA Ingenuity Helicopter" />
+  </a>
+  <a href="https://github.com/lokesh12dev?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/badges/public-sponsor.png" alt="Public Sponsor" width="85px" title="Public Sponsor - Sponsoring Open Source" />
+  </a>
+  <a href="https://github.com/lokesh12dev?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/badges/heart-on-your-sleeve.png" alt="Heart On Your Sleeve" width="85px" title="Heart On Your Sleeve - Reacted with ❤️ emoji" />
+  </a>
+  <a href="https://github.com/lokesh12dev?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/badges/open-sourcerer.png" alt="Open Sourcerer" width="85px" title="Open Sourcerer - PRs merged in multiple public repositories" />
+  </a>
+</p>
