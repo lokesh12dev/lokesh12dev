@@ -41,6 +41,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://lokesh12dev.github.io/Forge-Music/player/#/home" target="_blank">
+        <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/projects/forge.webp" alt="Forge Music" width="100%" />
+      </a>
       <h3 align="center">🎵 Forge Music Ecosystem</h3>
       <p align="center">
         <a href="https://lokesh12dev.github.io/Forge-Music/player/#/home" target="_blank">
@@ -56,6 +59,9 @@
       </p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://lokesh-online-three.vercel.app/pro" target="_blank">
+        <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/projects/namma-forge.webp" alt="Namma Forge" width="100%" />
+      </a>
       <h3 align="center">🏙️ Namma Forge</h3>
       <p align="center">
         <a href="https://lokesh-online-three.vercel.app/pro" target="_blank">
@@ -70,6 +76,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://lokesh-online-three.vercel.app/pro" target="_blank">
+        <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/projects/main-residence.webp" alt="Main Residence" width="100%" />
+      </a>
       <h3 align="center">🏛️ Main Residence</h3>
       <p align="center">
         <a href="https://lokesh-online-three.vercel.app/pro" target="_blank">
@@ -82,6 +91,9 @@
       </p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/lokesh12dev" target="_blank">
+        <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/projects/movieverse.webp" alt="MovieVerse Hub" width="100%" />
+      </a>
       <h3 align="center">🎬 MovieVerse Hub</h3>
       <p align="center">
         <a href="https://github.com/lokesh12dev" target="_blank">
@@ -96,6 +108,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://lessbusy.vercel.app" target="_blank">
+        <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/projects/lessbusy.png" alt="LessBusy Productivity" width="100%" />
+      </a>
       <h3 align="center">⚡ LessBusy Productivity</h3>
       <p align="center">
         <a href="https://lessbusy.vercel.app" target="_blank">
@@ -108,6 +123,9 @@
       </p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://lokesh-online-three.vercel.app/pro" target="_blank">
+        <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/projects/portfolio.png" alt="Interactive Developer Portfolio" width="100%" />
+      </a>
       <h3 align="center">🌐 Interactive Developer Portfolio</h3>
       <p align="center">
         <a href="https://lokesh-online-three.vercel.app/pro" target="_blank">
@@ -162,9 +180,9 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
 ---
