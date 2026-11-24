@@ -36,7 +36,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://lokesh12dev.github.io/Forge-Music/player/#/home" target="_blank">
-        <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/projects/forge.webp" alt="Forge Music" width="100%" />
+        <img src="./assets/projects/forge.webp" alt="Forge Music" width="100%" />
       </a>
       <h3 align="center">🎵 Forge Music Ecosystem</h3>
       <p align="center">
@@ -54,7 +54,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://lokesh-online-three.vercel.app/pro" target="_blank">
-        <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/projects/namma-forge.webp" alt="Namma Forge" width="100%" />
+        <img src="./assets/projects/namma-forge.webp" alt="Namma Forge" width="100%" />
       </a>
       <h3 align="center">🏙️ Namma Forge</h3>
       <p align="center">
@@ -71,7 +71,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://lokesh-online-three.vercel.app/pro" target="_blank">
-        <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/projects/main-residence.webp" alt="Main Residence" width="100%" />
+        <img src="./assets/projects/main-residence.webp" alt="Main Residence" width="100%" />
       </a>
       <h3 align="center">🏛️ Main Residence</h3>
       <p align="center">
@@ -86,7 +86,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/lokesh12dev" target="_blank">
-        <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/projects/movieverse.webp" alt="MovieVerse Hub" width="100%" />
+        <img src="./assets/projects/movieverse.webp" alt="MovieVerse Hub" width="100%" />
       </a>
       <h3 align="center">🎬 MovieVerse Hub</h3>
       <p align="center">
@@ -103,7 +103,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://lessbusy.vercel.app" target="_blank">
-        <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/projects/lessbusy.webp" alt="LessBusy Productivity" width="100%" />
+        <img src="./assets/projects/lessbusy.webp" alt="LessBusy Productivity" width="100%" />
       </a>
       <h3 align="center">⚡ LessBusy Productivity</h3>
       <p align="center">
@@ -118,7 +118,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://lokesh-online-three.vercel.app/pro" target="_blank">
-        <img src="https://raw.githubusercontent.com/lokesh12dev/lokesh12dev/main/assets/projects/portfolio.webp" alt="Interactive Developer Portfolio" width="100%" />
+        <img src="./assets/projects/portfolio.webp" alt="Interactive Developer Portfolio" width="100%" />
       </a>
       <h3 align="center">🌐 Interactive Developer Portfolio</h3>
       <p align="center">
